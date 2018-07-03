@@ -1,0 +1,651 @@
+C:\Documents and Settings\Fellipe Thufik\Configurações locais\Dados de aplicativos\Temporary Projects\Cariodonto\bin\Debug\Cariodonto.exe
+C:\Documents and Settings\Fellipe Thufik\Configurações locais\Dados de aplicativos\Temporary Projects\Cariodonto\bin\Debug\Cariodonto.pdb
+C:\Documents and Settings\Fellipe Thufik\Configurações locais\Dados de aplicativos\Temporary Projects\Cariodonto\bin\Debug\Cariodonto.xml
+C:\Documents and Settings\Fellipe Thufik\Configurações locais\Dados de aplicativos\Temporary Projects\Cariodonto\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Fellipe Thufik\Configurações locais\Dados de aplicativos\Temporary Projects\Cariodonto\obj\Debug\Cariodonto.Anamnese.resources
+C:\Documents and Settings\Fellipe Thufik\Configurações locais\Dados de aplicativos\Temporary Projects\Cariodonto\obj\Debug\Cariodonto.Resources.resources
+C:\Documents and Settings\Fellipe Thufik\Configurações locais\Dados de aplicativos\Temporary Projects\Cariodonto\obj\Debug\Cariodonto.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Fellipe Thufik\Configurações locais\Dados de aplicativos\Temporary Projects\Cariodonto\obj\Debug\Cariodonto.exe
+C:\Documents and Settings\Fellipe Thufik\Configurações locais\Dados de aplicativos\Temporary Projects\Cariodonto\obj\Debug\Cariodonto.xml
+C:\Documents and Settings\Fellipe Thufik\Configurações locais\Dados de aplicativos\Temporary Projects\Cariodonto\obj\Debug\Cariodonto.pdb
+C:\Documents and Settings\Fellipe Thufik\Meus documentos\Informática\Visual Basic\Visual Studio 2008\Projects\Cariodonto\Cariodonto\obj\Debug\Cariodonto.exe
+C:\Documents and Settings\Fellipe Thufik\Meus documentos\Informática\Visual Basic\Visual Studio 2008\Projects\Cariodonto\Cariodonto\obj\Debug\Cariodonto.xml
+C:\Documents and Settings\Fellipe Thufik\Meus documentos\Informática\Visual Basic\Visual Studio 2008\Projects\Cariodonto\Cariodonto\obj\Debug\Cariodonto.pdb
+C:\Documents and Settings\Fellipe Thufik\Meus documentos\Informática\Visual Basic\Visual Studio 2008\Projects\Cariodonto\Cariodonto\bin\Debug\Cariodonto.exe
+C:\Documents and Settings\Fellipe Thufik\Meus documentos\Informática\Visual Basic\Visual Studio 2008\Projects\Cariodonto\Cariodonto\bin\Debug\Cariodonto.pdb
+C:\Documents and Settings\Fellipe Thufik\Meus documentos\Informática\Visual Basic\Visual Studio 2008\Projects\Cariodonto\Cariodonto\bin\Debug\Cariodonto.xml
+C:\Documents and Settings\Fellipe Thufik\Meus documentos\Informática\Visual Basic\Visual Studio 2008\Projects\Cariodonto\Cariodonto\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Fellipe Thufik\Meus documentos\Informática\Visual Basic\Visual Studio 2008\Projects\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Anamnese.resources
+C:\Documents and Settings\Fellipe Thufik\Meus documentos\Informática\Visual Basic\Visual Studio 2008\Projects\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Resources.resources
+C:\Documents and Settings\Fellipe Thufik\Meus documentos\Informática\Visual Basic\Visual Studio 2008\Projects\Cariodonto\Cariodonto\obj\Debug\Cariodonto.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Fellipe Thufik\Meus documentos\Informática\Visual Basic\Visual Studio 2008\Projects\Cariodonto\Cariodonto\obj\Debug\Cariodonto.CadastroPaciente.resources
+C:\Documents and Settings\Fellipe Thufik\Meus documentos\Informática\Visual Basic\Visual Studio 2008\Projects\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Menu.resources
+C:\Documents and Settings\Fellipe Thufik\Meus documentos\Informática\Visual Basic\Visual Studio 2008\Projects\Cariodonto\Cariodonto\obj\Debug\Cariodonto.CadastroFornecedor.resources
+C:\Documents and Settings\Fellipe Thufik\Meus documentos\Informática\Visual Basic\Visual Studio 2008\Projects\Cariodonto\Cariodonto\obj\Debug\Cariodonto.CadastroFuncionario.resources
+C:\Documents and Settings\Fellipe Thufik\Meus documentos\Informática\Visual Basic\Visual Studio 2008\Projects\Cariodonto\Cariodonto\obj\Debug\Cariodonto.REceita.resources
+C:\Documents and Settings\Fellipe Thufik\Meus documentos\Informática\Visual Basic\Visual Studio 2008\Projects\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Agenda.resources
+C:\Documents and Settings\Fellipe Thufik\Meus documentos\Informática\Visual Basic\Visual Studio 2008\Projects\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Produtos.resources
+C:\Documents and Settings\Fellipe Thufik\Meus documentos\Informática\Visual Basic\Visual Studio 2008\Projects\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConCliente.resources
+C:\Documents and Settings\Fellipe Thufik\Meus documentos\Informática\Visual Basic\Visual Studio 2008\Projects\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Login.resources
+C:\Documents and Settings\Fellipe Thufik\Meus documentos\Informática\Visual Basic\Visual Studio 2008\Projects\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConAgendamento.resources
+C:\Documents and Settings\Fellipe Thufik\Meus documentos\Informática\Visual Basic\Visual Studio 2008\Projects\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConCodAgen.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.exe
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.xml
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.pdb
+E:\Cariodonto\Cariodonto\bin\Debug\Cariodonto.exe
+E:\Cariodonto\Cariodonto\bin\Debug\Cariodonto.pdb
+E:\Cariodonto\Cariodonto\bin\Debug\Cariodonto.xml
+E:\Cariodonto\Cariodonto\obj\Debug\ResolveAssemblyReference.cache
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Agenda.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Anamnese.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.CadastroFornecedor.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.CadastroFuncionario.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.CadastroPaciente.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConAgendamento.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConCliente.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConCodAgen.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Login.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Resources.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Produtos.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.REceita.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.vbproj.GenerateResource.Cache
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.exe
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.xml
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.pdb
+F:\Cariodonto\Cariodonto\bin\Debug\Cariodonto.exe
+F:\Cariodonto\Cariodonto\bin\Debug\Cariodonto.pdb
+F:\Cariodonto\Cariodonto\bin\Debug\Cariodonto.xml
+F:\Cariodonto\Cariodonto\obj\Debug\ResolveAssemblyReference.cache
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Agenda.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Anamnese.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.CadastroFornecedor.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.CadastroFuncionario.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.CadastroPaciente.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConAgendamento.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConCliente.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConCodAgen.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Login.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Resources.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Produtos.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.REceita.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.vbproj.GenerateResource.Cache
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmTabBaixaEstoque.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConFuncionário.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConProdutos.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConFuncionário.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConProdutos.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmTabBaixaEstoque.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Interop.AcroPDFLib.dll
+E:\Cariodonto\Cariodonto\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.vbproj.ResolveComReference.cache
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmCurriculum.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Interop.AcroPDFLib.dll
+F:\Cariodonto\Cariodonto\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.vbproj.ResolveComReference.cache
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmCurriculum.resources
+F:\Cariodonto\Cariodonto\bin\Debug\Interop.AcroPDFLib.dll
+F:\Cariodonto\Cariodonto\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Cariodonto\Cariodonto\bin\Debug\Interop.AcroPDFLib.dll
+E:\Cariodonto\Cariodonto\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConFornecedor.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.MenuInicial.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConFornecedor.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.MenuInicial.resources
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.exe
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.xml
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.pdb
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\bin\Debug\Cariodonto.exe
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\bin\Debug\Cariodonto.pdb
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\bin\Debug\Cariodonto.xml
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\bin\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Agenda.resources
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Anamnese.resources
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.CadastroFornecedor.resources
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.CadastroFuncionario.resources
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.CadastroPaciente.resources
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConAgendamento.resources
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConCliente.resources
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConCodAgen.resources
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConFornecedor.resources
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConFuncionário.resources
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConProdutos.resources
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmCurriculum.resources
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmTabBaixaEstoque.resources
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Login.resources
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.MenuInicial.resources
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Resources.resources
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Produtos.resources
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.REceita.resources
+C:\Documents and Settings\Fellipe Thufik\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.vbproj.GenerateResource.Cache
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Frmpegarfoto.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Frmpegarfoto.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.frmexcluiragenda.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.vbproj.ResolveComReference.cache
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.exe
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.xml
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.pdb
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Agenda.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Anamnese.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.CadastroFornecedor.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.CadastroFuncionario.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.CadastroPaciente.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConAgendamento.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConCliente.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConCodAgen.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConFornecedor.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConFuncionário.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmCurriculum.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.frmexcluiragenda.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Frmpegarfoto.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Login.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.MenuInicial.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Resources.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.vbproj.GenerateResource.Cache
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.vbproj.ResolveComReference.cache
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.exe
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.xml
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.pdb
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.Agenda.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.Anamnese.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.CadastroFornecedor.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.CadastroFuncionario.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.CadastroPaciente.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.Consulta (2).resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.Consulta.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.Consulta_Cliente (2).resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.Consulta_Cliente.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.Consuta (2).resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.Consuta.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.Despesas.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.FrmConAgendamento.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.FrmConBaixa.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.FrmConCliente.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.FrmConCliOdo.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.FrmConCliRec.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.FrmConCodAgen.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.FrmConDespesas.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.FrmConEntrada.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.FrmConFornecedor.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.FrmConFornecedores2.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.FrmConFuncionário.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.FrmConOdo.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.FrmConProdutos.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.FrmConReceitas.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.FrmCurriculum.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.FrmDatIniFin.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.frmexcluiragenda.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.FrmImp.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.Frmpegarfoto.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.FrmTabBaixaEstoque.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.FrmTabEntradaProdutos.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.Login.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.MenuInicial.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.Resources.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.Odontograma.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.Produtos.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.Receita.resources
+C:\Users\Vitor\Desktop\Cariodonto - Cópia\Cariodonto\obj\Debug\Cariodonto.vbproj.GenerateResource.Cache
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.vbproj.ResolveComReference.cache
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.exe
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.xml
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.pdb
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Agenda.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Anamnese.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.CadastroFornecedor.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.CadastroFuncionario.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.CadastroPaciente.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consulta (2).resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consulta.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consulta_Cliente (2).resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consulta_Cliente.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consuta (2).resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consuta.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Despesas.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.frmAniversariantes.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmCadastroLogin.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConAgendamento.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConBaixa.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConCliente.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConCliOdo.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConCliRec.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConCodAgen.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConDespesas.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConEntrada.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConFornecedor.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConFornecedores2.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConFuncionário.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConOdo.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConProdutos.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConReceitas.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmControle.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmCurriculum.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmDatIniFin.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmEmail.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.frmexcluiragenda.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmImp.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.frmListatel.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Frmpegarfoto.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmTabBaixaEstoque.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmTabEntradaProdutos.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Login.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.MenuInicial.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Resources.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Odontograma.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Produtos.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Receita.resources
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.vbproj.GenerateResource.Cache
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\bin\Debug\Cariodonto.exe
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\bin\Debug\Cariodonto.pdb
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\bin\Debug\Cariodonto.xml
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Vitor\Desktop\CariodontoOriginal\Cariodonto\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.exe
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.xml
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.pdb
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\bin\Debug\Cariodonto.exe
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\bin\Debug\Cariodonto.pdb
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\bin\Debug\Cariodonto.xml
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\bin\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Agenda.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Anamnese.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.CadastroFornecedor.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.CadastroFuncionario.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.CadastroPaciente.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consulta (2).resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consulta.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consulta_Cliente (2).resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consulta_Cliente.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consuta (2).resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consuta.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Despesas.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.frmAniversariantes.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmCadastroLogin.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConAgendamento.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConBaixa.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConCliente.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConCliOdo.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConCliRec.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConCodAgen.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConDespesas.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConEntrada.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConFornecedor.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConFornecedores2.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConFuncionário.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConOdo.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConProdutos.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConReceitas.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmControle.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmCurriculum.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmDatIniFin.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmEmail.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.frmexcluiragenda.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmImp.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.frmListatel.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Frmpegarfoto.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmTabBaixaEstoque.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmTabEntradaProdutos.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Login.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.MenuInicial.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Resources.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Odontograma.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Produtos.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Receita.resources
+C:\Documents and Settings\Michelle.PCAMI\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.vbproj.GenerateResource.Cache
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.vbproj.ResolveComReference.cache
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.exe
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.xml
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.pdb
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\bin\Debug\Cariodonto.exe
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\bin\Debug\Cariodonto.pdb
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\bin\Debug\Cariodonto.xml
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\bin\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Agenda.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Anamnese.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.CadastroFornecedor.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.CadastroFuncionario.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.CadastroPaciente.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consulta (2).resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consulta.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consulta_Cliente (2).resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consulta_Cliente.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consuta (2).resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consuta.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Despesas.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.frmAniversariantes.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmCadastroLogin.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConAgendamento.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConBaixa.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConCliente.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConCliOdo.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConCliRec.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConCodAgen.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConDespesas.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConEntrada.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConFornecedor.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConFornecedores2.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConFuncionário.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConOdo.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConProdutos.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConReceitas.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmControle.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmCurriculum.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmDatIniFin.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmEmail.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.frmexcluiragenda.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmImp.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.frmListatel.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Frmpegarfoto.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmTabBaixaEstoque.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmTabEntradaProdutos.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Login.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.MenuInicial.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Resources.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Odontograma.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Produtos.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Receita.resources
+C:\Documents and Settings\10010038\Desktop\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.vbproj.GenerateResource.Cache
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Interop.AcroPDFLib.dll
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\AxInterop.AcroPDFLib.dll
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.vbproj.ResolveComReference.cache
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.exe
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.xml
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.pdb
+Z:\CariodontoOriginal\Cariodonto\bin\Debug\Cariodonto.exe
+Z:\CariodontoOriginal\Cariodonto\bin\Debug\Cariodonto.pdb
+Z:\CariodontoOriginal\Cariodonto\bin\Debug\Cariodonto.xml
+Z:\CariodontoOriginal\Cariodonto\bin\Debug\Interop.AcroPDFLib.dll
+Z:\CariodontoOriginal\Cariodonto\bin\Debug\AxInterop.AcroPDFLib.dll
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\ResolveAssemblyReference.cache
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Agenda.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Anamnese.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.CadastroFornecedor.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.CadastroFuncionario.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.CadastroPaciente.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consulta (2).resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consulta.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consulta_Cliente (2).resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consulta_Cliente.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consuta (2).resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consuta.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Despesas.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.frmAniversariantes.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmCadastroLogin.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConAgendamento.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConBaixa.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConCliente.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConCliOdo.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConCliRec.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConCodAgen.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConDespesas.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConEntrada.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConFornecedor.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConFornecedores2.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConFuncionário.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConOdo.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConProdutos.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConReceitas.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmControle.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmCurriculum.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmDatIniFin.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmEmail.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.frmexcluiragenda.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmImp.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.frmListatel.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Frmpegarfoto.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmTabBaixaEstoque.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmTabEntradaProdutos.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Login.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.MenuInicial.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Resources.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Odontograma.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Produtos.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Receita.resources
+Z:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.vbproj.GenerateResource.Cache
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Interop.AcroPDFLib.dll
+F:\CariodontoOriginal\Cariodonto\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.vbproj.ResolveComReference.cache
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.exe
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.xml
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.pdb
+F:\CariodontoOriginal\Cariodonto\bin\Debug\Cariodonto.exe
+F:\CariodontoOriginal\Cariodonto\bin\Debug\Cariodonto.pdb
+F:\CariodontoOriginal\Cariodonto\bin\Debug\Cariodonto.xml
+F:\CariodontoOriginal\Cariodonto\bin\Debug\Interop.AcroPDFLib.dll
+F:\CariodontoOriginal\Cariodonto\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\CariodontoOriginal\Cariodonto\obj\Debug\ResolveAssemblyReference.cache
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Agenda.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Anamnese.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.CadastroFornecedor.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.CadastroFuncionario.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.CadastroPaciente.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consulta (2).resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consulta.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consulta_Cliente (2).resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consulta_Cliente.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consuta (2).resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consuta.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Despesas.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.frmAniversariantes.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmCadastroLogin.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConAgendamento.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConBaixa.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConCliente.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConCliOdo.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConCliRec.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConCodAgen.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConDespesas.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConEntrada.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConFornecedor.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConFornecedores2.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConFuncionário.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConOdo.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConProdutos.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConReceitas.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmControle.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmCurriculum.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmDatIniFin.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmEmail.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.frmexcluiragenda.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmImp.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.frmListatel.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Frmpegarfoto.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmTabBaixaEstoque.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmTabEntradaProdutos.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Login.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.MenuInicial.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Resources.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Odontograma.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Produtos.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Receita.resources
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.vbproj.GenerateResource.Cache
+F:\CariodontoOriginal\Cariodonto\bin\Debug\Microsoft.Office.Interop.Word.dll
+F:\CariodontoOriginal\Cariodonto\bin\Debug\office.dll
+F:\CariodontoOriginal\Cariodonto\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\CariodontoOriginal\Cariodonto\bin\Debug\Microsoft.Office.Interop.Word.xml
+F:\CariodontoOriginal\Cariodonto\bin\Debug\office.xml
+F:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmReceituário.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Interop.AcroPDFLib.dll
+E:\CariodontoOriginal\Cariodonto\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.vbproj.ResolveComReference.cache
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.exe
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.xml
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.pdb
+E:\CariodontoOriginal\Cariodonto\bin\Debug\Cariodonto.exe
+E:\CariodontoOriginal\Cariodonto\bin\Debug\Cariodonto.pdb
+E:\CariodontoOriginal\Cariodonto\bin\Debug\Cariodonto.xml
+E:\CariodontoOriginal\Cariodonto\bin\Debug\Interop.AcroPDFLib.dll
+E:\CariodontoOriginal\Cariodonto\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\CariodontoOriginal\Cariodonto\obj\Debug\ResolveAssemblyReference.cache
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Agenda.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Anamnese.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.CadastroFornecedor.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.CadastroFuncionario.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.CadastroPaciente.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consulta (2).resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consulta.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consulta_Cliente (2).resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consulta_Cliente.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consuta (2).resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Consuta.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Despesas.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.frmAniversariantes.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmCadastroLogin.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConAgendamento.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConBaixa.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConCliente.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConCliOdo.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConCliRec.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConCodAgen.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConDespesas.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConEntrada.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConFornecedor.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConFornecedores2.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConFuncionário.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConOdo.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConProdutos.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmConReceitas.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmControle.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmCurriculum.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmDatIniFin.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmEmail.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.frmexcluiragenda.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmImp.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.frmListatel.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Frmpegarfoto.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmReceituário.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmTabBaixaEstoque.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.FrmTabEntradaProdutos.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Login.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.MenuInicial.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Resources.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Odontograma.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Produtos.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Receita.resources
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.vbproj.GenerateResource.Cache
+E:\CariodontoOriginal\Cariodonto\obj\Debug\Cariodonto.Frmteste.resources
+F:\Cariodonto\Cariodonto\bin\Debug\Microsoft.Office.Interop.Word.dll
+F:\Cariodonto\Cariodonto\bin\Debug\office.dll
+F:\Cariodonto\Cariodonto\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\Cariodonto\Cariodonto\bin\Debug\Microsoft.Office.Interop.Word.xml
+F:\Cariodonto\Cariodonto\bin\Debug\office.xml
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Consulta (2).resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Consulta.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Consulta_Cliente (2).resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Consulta_Cliente.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Consuta (2).resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Consuta.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Despesas.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.frmAniversariantes.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmCadastroLogin.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConBaixa.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConCliOdo.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConCliRec.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConDespesas.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConEntrada.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConFornecedores2.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConOdo.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConReceitas.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmControle.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmDatIniFin.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmEmail.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.frmexcluiragenda.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmImp.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.frmListatel.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmReceituário.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmTabEntradaProdutos.resources
+F:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Odontograma.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Consulta (2).resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Consulta.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Consulta_Cliente (2).resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Consulta_Cliente.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Consuta (2).resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Consuta.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Despesas.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.frmAniversariantes.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmCadastroLogin.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConBaixa.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConCliOdo.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConCliRec.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConDespesas.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConEntrada.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConFornecedores2.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConOdo.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConReceitas.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmControle.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmDatIniFin.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmEmail.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmImp.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.frmListatel.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmReceituário.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmTabEntradaProdutos.resources
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Odontograma.resources
+E:\Cariodonto\Cariodonto\bin\Debug\Cariodonto.exe.manifest
+E:\Cariodonto\Cariodonto\bin\Debug\Cariodonto.application
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.exe.manifest
+E:\Cariodonto\Cariodonto\obj\Debug\Cariodonto.application
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\bin\Debug\Cariodonto.exe.manifest
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\bin\Debug\Cariodonto.application
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\bin\Debug\Cariodonto.exe
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\bin\Debug\Cariodonto.pdb
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\bin\Debug\Cariodonto.xml
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\bin\Debug\office.dll
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\bin\Debug\office.xml
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Consulta (2).resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Consulta.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Consulta_Cliente (2).resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Consulta_Cliente.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Consuta (2).resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Consuta.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Despesas.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.frmAniversariantes.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmCadastroLogin.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConBaixa.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConCliOdo.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConCliRec.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConDespesas.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConEntrada.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConFornecedores2.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConOdo.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConProdutos.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmConReceitas.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmControle.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmDatIniFin.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmEmail.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmImp.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.frmListatel.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmReceituário.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmTabBaixaEstoque.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.FrmTabEntradaProdutos.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Odontograma.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Produtos.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.Receita.resources
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.exe.manifest
+C:\Users\Vitor\Desktop\Cariodonto\Cariodonto\obj\Debug\Cariodonto.application
